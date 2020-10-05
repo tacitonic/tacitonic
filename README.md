@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello, I'm Atharva 👋🏻
 
+Computer Engineering student + Sound Designer and Music Technologist in my spare time.  
+
+I'm currently designing the WordPress Style Guide as a part of Google's Season of Docs.
+
+Reach out to me via [tacitonic.com](https://tacitonic.com).
 <!--
 **tacitonic/tacitonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
