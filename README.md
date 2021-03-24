@@ -1,8 +1,8 @@
-### Hello, I'm Atharva 👋🏻
+### Hello, I'm Atharva
 
 Computer Engineering student + Sound Designer and Music Technologist in my spare time.  
 
-I'm currently designing the [WordPress Style Guide](https://github.com/WordPress/WordPress-Documentation-Style-Guide) as a part of [Google's Season of Docs](https://developers.google.com/season-of-docs/docs/participants/project-wordpress-tacitonic).
+I'm currently designing the [WordPress Style Guide](https://github.com/WordPress/WordPress-Documentation-Style-Guide) as a part of [Google's Season of Docs](https://developers.google.com/season-of-docs/docs/2020/participants/project-wordpress-tacitonic).
 
 Reach out to me via [tacitonic.com](https://tacitonic.com).
 <!--
