@@ -1,4 +1,4 @@
-### Hello, I'm Atharva
+### Hello, I'm Atharva.
 
 Computer Engineering student + Sound Designer and Music Technologist in my spare time.  
 
