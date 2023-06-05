@@ -1,6 +1,6 @@
 ### Hello, I'm Atharva.
 
-*Music Technology grad student at NYU Steinhardt • Audio Engineer • Computer Engineer • Sound Designer in my spare time.*
+*Music Technology graduate from NYU Steinhardt • Audio Engineer • Producer • Computer Engineer • Sound Designer*
 
 Reach out to me via [tacitonic.com](https://tacitonic.com).
 <!--
